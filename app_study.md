@@ -4,7 +4,7 @@ Impact of format:
 * __Twitter__ : The impact of restricting information input size.
 * __Clubhouse__ : Biasing information with human interaction.
 * __Wikipedia__ : Organizing information when everyone can edit.
-* __Blockchain__ : Everlasting information
+* __Blockchain__ : Information forever.
 
 Impact of bad data: 
 * __Facebook__ : Misinformation left unchecked
@@ -53,6 +53,7 @@ The influence of input size could be quickly summarized in two hypothesis:
 While there is too much data to do a normal scientific study, some have attempted with smaller datasets. For example, [this study](https://ojs.aaai.org/index.php/ICWSM/article/view/15079/14929) tries to see changes in tweets made before and after the 2017 shift from a max. of 140 characters to 280. The results are not very well defined, but some changes are observed.
 
 ![image](https://user-images.githubusercontent.com/58654842/138973509-2d6a3145-b0f3-4086-bb50-564e6401c7a5.png)
+![image](https://user-images.githubusercontent.com/58654842/138973766-a34a6d74-7b04-4e70-b69c-14ff9116933a.png)
 
 
 
