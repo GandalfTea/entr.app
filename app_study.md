@@ -50,10 +50,9 @@ The influence of input size could be quickly summarized in two hypothesis:
 
 &nbsp;
 
-While there is too much data to do a normal scientific study, some have attempted with smaller datasets. For example, this study tries to see changes in tweets made before and after the 2017 shift from a max. of 140 characters to 280. The results are not very well defined, but some changes are observed.
+While there is too much data to do a normal scientific study, some have attempted with smaller datasets. For example, [this study](https://ojs.aaai.org/index.php/ICWSM/article/view/15079/14929) tries to see changes in tweets made before and after the 2017 shift from a max. of 140 characters to 280. The results are not very well defined, but some changes are observed.
 
-[img]
-
+![image](https://user-images.githubusercontent.com/58654842/138973509-2d6a3145-b0f3-4086-bb50-564e6401c7a5.png)
 
 
 
