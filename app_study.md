@@ -20,6 +20,8 @@ Impact of price:
 
 &nbsp;
 
+&nbsp;
+
 
 ### [__Twitter__](https://twitter.com) : The impact of restricting information input size.
 
@@ -32,10 +34,9 @@ _The enemy of art is the absence of limitations._ — Orson Welles
 
 &nbsp;
 
-When it comes to trading information, Twitter is one of the main places for public 'forum' like discussion. One of the most interesting aspects, often the source of controversy, is it's 280 character limit (prev. 140). Some hold the belief that this restriction imposes a block on complex discourse and encourages attention seeking behaviour by extreme and provocative ideas. Whether this is the case or whether it is the effect of the character limitation has not been objectively proven. On the other side of the argument, the character constraint could potentially enhance communication by appealing to a creative method of phrasing. Twitter has been used [to inhance storytelling ability](https://www.tandfonline.com/doi/abs/10.1080/14790726.2015.1127975) before and some users on the platform have gained a following by having the ability to [_summarize an entire essay into a sentence_](https://twitter.com/naval).
-
 &nbsp;
 
+When it comes to trading information, Twitter is one of the main places for public 'forum' like discussion. One of the most interesting aspects, often the source of controversy, is it's 280 character limit (prev. 140). Some hold the belief that this restriction imposes a block on complex discourse and encourages attention seeking behaviour by extreme and provocative ideas. Whether this is the case or whether it is the effect of the character limitation has not been objectively proven. On the other side of the argument, the character constraint could potentially enhance communication by appealing to a creative method of phrasing. Twitter has been used [to inhance storytelling ability](https://www.tandfonline.com/doi/abs/10.1080/14790726.2015.1127975) before and some users on the platform have gained a following by having the ability to [_summarize an entire essay into a sentence_](https://twitter.com/naval).
 
 Our main point of focus in this subject is how the complexity and, by relation, the length of the messages affect the overall structure of the discourse and the active traing of information. While the initial purpose of the app was to let people freely socialize, it has become an active information battlefield  by exposing people to a big amount of data in a short period of time and allowing them to freely build on it. The incentive is represented by tackling the human's need for social life, one of the most powerful evolutionary characteristic. A certain type of addiction comes from the idea that the information presented to you could provide a benefit to your live, is crucial to the society as a whole, or the absence of it could result in social rejection. It represents a social hierarchy of opinions and widely believed information. This can be seen mostly in _cancel culture_ like behaviours and the group belief that an opinion can be "wrong", or "not right enough" thus proving the existence of a hierarchical structure. Because of the big user base, Twitter allows for the creation of 'social bubbles' or groups that share commonalities. Because the app was not designed to filter for this, it does not do a good job of representing the group's core beliefs in a clear manner. Because the users do not necesarely have the goal of reaching truth, a lot of the conversations could be prime examples of people "muddying the water to make it seem deep". Inside an information market, the same principles could be used to allow people to project their core beliefs and discuss them in a social manner, therefore solidifying Twitter as one of the main influences for our app. Whether people need to be conscious of the implications of their opinion on a bigger scale in order to abstein from misinformation or socially appealing behaviour or you could de-bias for this is an open question.
 
