@@ -64,6 +64,11 @@ One other important point is that people can chain tweets to create _threads_. T
 Twitter is more popular then other platforms when it comes to social discourse. The reasons for this are unclear. It could be the format or it could be a complete range of other reasons. What is known is that the format is not a clear limitation, otherwise people would not continue to use it. As for the use of the information here in out app, we will try to implement a character limitation with the hopes of reducing complexity in some sections of the app, while not having a limitations in others to allow for clear messages. A mix could be created with the hopes of representing an idea inside of a potential 140 char. limit (low complexity, low clarity) to allow for variation of opinion and to stimulate a user to form their own view of the matter, and a potential blog-like entry open to each person to explain how they view the general statement, with a potential github-like tool for supporting, commiting or forking blogs (high complexity, high clarity) 
 
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
 
