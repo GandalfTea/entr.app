@@ -66,3 +66,15 @@ Twitter is more popular then other platforms when it comes to social discourse. 
 
 
 
+
+
+
+### [__Clubhouse__](https://www.joinclubhouse.com/): Biasing information with human interaction
+
+
+Since this plarform is very new, there are no studies on it. Everything that follows is my own opinion and experience with the app.
+
+A lot of people see classic social as a sterile envirionment cut out from social norms. This results in users that abuse anonimity to behave erratically. Clubhouse tries to fix this by removing one aspect of that anonimity; you have to use your own voice to speak to other people. While twitter is a visual social media where people can share text, photos or videos, Clubhouse goes the other direction focusing on the audio aspect of conversations. For many it feels like a live podcast, a bigger voice call where, depending on the room settings, there are a few active participants and the rest are listeners, or everyone can became a participant. Even if our app will most likely be centered around a visual method of presenting information, we are going to take a quick look at what the effect of removing that sterility and introducing human emotion and empathy for the other participants back into the mix is, and how it influences and biased the conversation.
+
+
+
