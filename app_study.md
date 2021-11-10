@@ -24,10 +24,10 @@ Impact of value:
 
 &nbsp;
 
-_The enemy of art is the absence of limitations._ — Orson Welles 
+_The enemy of art is the absence of limitations._ â€” Orson Welles 
 
 
-[_More broadly, research in several fields—spanning product design (Joyce 2009; Moreau and Dahl 2005), process management (Fritscher and Pigneur 2009), and education (Hen-nessey 1989)—suggests that having too much freedom can be paralyzing (epitomized by the feeling of staring at a blank sheet of paper), and that there is a sweet spot with just the right amount of constraints._](https://ojs.aaai.org/index.php/ICWSM/article/view/15079/14929)
+[_More broadly, research in several fieldsâ€”spanning product design (Joyce 2009; Moreau and Dahl 2005), process management (Fritscher and Pigneur 2009), and education (Hen-nessey 1989)â€”suggests that having too much freedom can be paralyzing (epitomized by the feeling of staring at a blank sheet of paper), and that there is a sweet spot with just the right amount of constraints._](https://ojs.aaai.org/index.php/ICWSM/article/view/15079/14929)
 
 &nbsp;
 
@@ -106,7 +106,7 @@ https://www.lesswrong.com/posts/M5PdzAH7Ck4FjuXwJ/the-secret-of-wikipedia-s-succ
 
 * Wikipedia has managed to do something analogous to landing a flipped coin on its side: generate reliable content without gaining an institutional reputation for reliability that would incentivize a massive effort to shape its content 
 
-* Not convinced? Imagine, for a minute, that every Wikipedia page was afforded the same degree of authority as a major newspaper, government agency, and bots would be created to re-edit the pages each time they were corrected. Companies would spread rumors about rival firms. Investors would short stock and then announce that the company has been falsifying their quarterly statements. Random people would �ward a Nobel Prize.
+* Not convinced? Imagine, for a minute, that every Wikipedia page was afforded the same degree of authority as a major newspaper, government agency, and bots would be created to re-edit the pages each time they were corrected. Companies would spread rumors about rival firms. Investors would short stock and then announce that the company has been falsifying their quarterly statements. Random people would Îward a Nobel Prize.
 
 * Wikipedia works as a market place of idease everyone ultimately has to collaborate to create a single page for a given topic. It similar to an economic ideal competitive market, in which the collective self-interest of thousands of buyers and sellers yields an optimal single "market price".
 
@@ -136,7 +136,7 @@ Wikipedia is an implementation of an information market. The users bet on the co
 
 
 
-###[__GitHub__](https://github.com): Free as in free will not free beer
+### [__GitHub__](https://github.com): Free as in free will not free beer
 
 ~
 The beginnings of the interner had a very unique philosophical fingerprint that held free access to information at the core of it's belief. The meaning of _free_ can take different shapes. It is often said that information should be _free as in free will, not free beer_. Conceptually free allows anyone to read, save and potentially distribute information. This philosophy is prevelent in software licenses, with examples like GNU free software, MIT licence, etc. There are used to describe what freedoms an anonymous user had in relation to a piece of software. For something to be conceptually free does not mean that a person cannot make a profit from it. There are various ways to make money from open source/ free software. You can sell maintenance, support, licences for distribution or implementation in other programs, etc. A good practical example of this is comma.ai. They transform your car into a self-driving car with quality that rivals Tesla. Almost all of their software is open souce, including the trained neural models. This allows technical users to download it for free and implement it in their own car, thus getting the product for free. The company also offers a premium version of their product in the shape of a smaller phone that is very easy to set up for the lay person, thus removing the techinical barier. The existance of the free version is essential because people can help fix bugs, or most importantly implement support for their own car, thus allowing comma to have a big library of supported vehicles without doing all the work themselves. The public also wins the access to the whole system behind the AI that runs the car, thus allowing them to examine and learn. This example cannot be extrapolated to most cases, but it proves that free software could potentially be a big advantage. Comma.Ai also has a special philosophy when it comes to forking. They believe everyone should be free to fork not only the source code but _the company as a whole_ thus being open to direct competition in a potential meritocratic system. Their goal is to build a good product, not get money and sell out. I personally believe in the free software initiative and plan to build the app as an _opinionated_ piece of software. The importance of a system that handles information should always be taken seriously, even if it is just a stupid student project. We don't want a repeat of Aaron Schwartz and we definately do not want to reach the decadent level of scientific papers, social media or the news. To see a good implementation of this, we will be taking a look at GitHub.
