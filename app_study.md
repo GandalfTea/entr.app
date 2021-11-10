@@ -91,7 +91,68 @@ A lot of people see classic social as a sterile envirionment cut out from social
 
 &nbsp;
 
+
+
+
+
+
 ### [__Wikipedia__](https://wikipedia.com): Organizing information when everyone can edit
+
+
+https://www.lesswrong.com/posts/M5PdzAH7Ck4FjuXwJ/the-secret-of-wikipedia-s-success
+
+
+* Incentive to influence invertly proportional to people participating and thus to accuracy of information market
+
+* Wikipedia has managed to do something analogous to landing a flipped coin on its side: generate reliable content without gaining an institutional reputation for reliability that would incentivize a massive effort to shape its content 
+
+* Not convinced? Imagine, for a minute, that every Wikipedia page was afforded the same degree of authority as a major newspaper, government agency, and bots would be created to re-edit the pages each time they were corrected. Companies would spread rumors about rival firms. Investors would short stock and then announce that the company has been falsifying their quarterly statements. Random people would Îward a Nobel Prize.
+
+* Wikipedia works as a market place of idease everyone ultimately has to collaborate to create a single page for a given topic. It similar to an economic ideal competitive market, in which the collective self-interest of thousands of buyers and sellers yields an optimal single "market price".
+
+* Wikipedia as a system for hyperlinks to sources instead of producing new information
+
+* Bots and people are activly fighting disinformation and bias in articles.
+
+* Google uses Wikipedia, proving it is reliable
+
+* California Republicans are Nazis
+
+
+
+Wikipedia is well known on the internet as the place you go to get objective information out of curiosity. It is also the place anyone related to serious research or articles tells you to stay away from. Overall, it is a remnant of the old internet ethos of sharing information freely with no regards for borders and created by anonymous volunteers that has been forgotten today in the age of social media.
+
+The relevancy to us comes in the stark contrast to one other application we looked at: Twitter. While Twitter allows anyone to write anything about anything without any reprecatutions (usually), Wikipedia is very strict when it comes to what information can stay on the site. Having only one article related to a subject as opposed to millions of different snippets forces editors to come to a mutual consensus.[_Wikipedia works as a market place of idease everyone ultimately has to collaborate to create a single page for a given topic. It similar to an economic ideal competitive market, in which the collective self-interest of thousands of buyers and sellers yields an optimal single "market price"._](https://www.lesswrong.com/posts/M5PdzAH7Ck4FjuXwJ/the-secret-of-wikipedia-s-success). This is also heavily restricted by it's citation policy, that states everything needs to be cited towards an outside reliable source, making the site a _hyperlink hub_ rather than a place that actively creates information. How has it manages to sustain the freedom of anonymous editing? What is it's strategy for keeping bias, misinformation and manipulation off the site? You will find right out, after out comic break:
+
+TODO: Insert Image for Citogenesis : https://xkcd.com/978/
+
+
+Wikipedia's aim is essentially different from ours. It wants to create an _objective encyclopedia_ where information is _true_ and _ordered_. We want a place where information is not necesarely _true_ but _subjectively true_. Therefore, we need to inverse the strategies used by Wikipedia.
+
+Like Twitter, Wikipedia is another information market implementation. The difference is that it is optimised for objectiveness and _truthfullness_. Most users of Wikipedia do not contribute to the active market (0.29% of wikipedia accounts are actively contributing, keeping in mind that most users do not have accounts), they interact with what I call the _market entity_ and make use of it's results. This interaction should not be taken into account when thinking about wikipedia as a market.      
+
+Wikipedia is an implementation of an information market. The users bet on the correct information inside an article with the stake being their reputation to the entity as a whole. This merket interaction is only possible because wikipedia has one acticle per subject, in opposition to Twitter's user-centric organization. Opposing sides and view have to reach a consensus regarding information. This consensus is mostly unregulated, meaning that the betting game is not a standard _average of prices_ that you can see in the financial market. The only restriction imposed on it is the Wikipedia _citation polity_, that forces information to have a clera and belivable citation behind it, otherwise it is removed. Information betting is supervised by site admins, and if a consensus is not reached in a certain amount of time, the betting could be stopped and users could be banned from participating in the discussion for a certain period of time, enforcing the incentive to reach a final consensus. Every Wikipedia article has a related discussion page where users could give arguments for thei changes and argue against others. This page could be corelated to the financial's market _market maker algorithms_ that pair orders and update the price. This is because users pair information into arguments with opposing sides and decide which one contains more _truth_ by objective argumentation. The resulting winner is hereafter placed inside the article, thus proving to be _truer_ then the adversaries. This appreciation of _truth_ inside of information could be seen as a downgrade from the financial market's algorithms because the participants are biased complex agents, limited in number. The result's clarity and _truthfulness_ is therefore limited to the number of participants and their corelated value weight (trust of the system in the individual). This implementation could potentially be replaced by an algorithm that allocates a _truth_ value to different statements. Unfortunately, how this is calculated is not yet possible to appreciate in a mathematical obejctive manner. Some potential ways to circumvent the problem (still resulting in a lower level of corectness) could be: . . . . . . .. The main problem with the current system in Wikipedia (and other websites similar) is that humans do most of the work. In a financial market, humans decide the price with bets and the system corelated those bets objectively. This is the best approximation of corectness that we have so far. In wikipedia, humand create the bets corelated with information and also attempt to resolve the corelation of those bets by themselves. This induces a higher risk of failure and results in the majority of people not taking the result seriously.
+
+
+
+
+###[__GitHub__](https://github.com): Free as in free will not free beer
+
+~
+The beginnings of the interner had a very unique philosophical fingerprint that held free access to information at the core of it's belief. The meaning of _free_ can take different shapes. It is often said that information should be _free as in free will, not free beer_. Conceptually free allows anyone to read, save and potentially distribute information. This philosophy is prevelent in software licenses, with examples like GNU free software, MIT licence, etc. There are used to describe what freedoms an anonymous user had in relation to a piece of software. For something to be conceptually free does not mean that a person cannot make a profit from it. There are various ways to make money from open source/ free software. You can sell maintenance, support, licences for distribution or implementation in other programs, etc. A good practical example of this is comma.ai. They transform your car into a self-driving car with quality that rivals Tesla. Almost all of their software is open souce, including the trained neural models. This allows technical users to download it for free and implement it in their own car, thus getting the product for free. The company also offers a premium version of their product in the shape of a smaller phone that is very easy to set up for the lay person, thus removing the techinical barier. The existance of the free version is essential because people can help fix bugs, or most importantly implement support for their own car, thus allowing comma to have a big library of supported vehicles without doing all the work themselves. The public also wins the access to the whole system behind the AI that runs the car, thus allowing them to examine and learn. This example cannot be extrapolated to most cases, but it proves that free software could potentially be a big advantage. Comma.Ai also has a special philosophy when it comes to forking. They believe everyone should be free to fork not only the source code but _the company as a whole_ thus being open to direct competition in a potential meritocratic system. Their goal is to build a good product, not get money and sell out. I personally believe in the free software initiative and plan to build the app as an _opinionated_ piece of software. The importance of a system that handles information should always be taken seriously, even if it is just a stupid student project. We don't want a repeat of Aaron Schwartz and we definately do not want to reach the decadent level of scientific papers, social media or the news. To see a good implementation of this, we will be taking a look at GitHub.
+
+
+
+
+
+All code on github is free to read and to _fork_. Not all code, though, is free to distribute, change or use in other projects. This means that anyone can read all source code on GitHub, learning about how programs are build and possibly use that knowledge when builsing programs themselves. This offers a great advantage to the overall potential advancements of the field because of the interconectivity of problems and their different answers. You can clearly see where the field is, what it is dealing with and how it got there. You can also have a clear meritocracy of ideas. In the case of open source or free software, you can also help manage and build upon it (together with millions of people), fork it to try out different options and run it locally for free. Building upon open source software constitutes people working on what is esentially public property, they help others knowing that everyone's help will congregate into a way better product than what a private group could achieve. This can clearly be seen in the Linux/GNU project, as a most basic example. Forking is another very important element because it lets people explore different posibilities with the result being decided by the number of people that mentain or use each fork. It is a way of letting people decide with their time what version of a software is better, an incentive that is held to the highest standrads for all humans. GitHub and in essence all free/ open source software managed to build a very clear and unbiased meritocracy, one that often results in exponential growth for the field. If this could potentially be applied in other fields, it would be revolutionaty.
+
+In terms of the actual implementation of source control and, most specifically, Git, it uses a Merkle Tree data structure to protect against potential outside attacks. This is very similar to Blockchain, but while the underlying technology is the same, the implementation differs in that Git is not as liniar as a Blockchain. This underlying proof-of-work algorithm could potentially be used in our application to differ outside attacks (excluding a potential 51% attack). Upon further examination, the Etherium proof-of-stake could also be later implemented.
+
+In terms of UI, for the time being, I see GitHub as being the biggest influence. Out program should have all base functionality of Github. Like I said eralier, it is a good implementation of the "free" phylosophy. I believe this is also needed in information sharing. The probles that could arise because of this can be summed in two categories. The first big problem is that code can be executed, while general information is only meant to be read, therefore you would not be able to offer anything else to the reader but the acces to read the information, resulting in a full delivery without any transaction of rights. The second problem is that the people who would concern themselves with information generally are might not be interested in a source-control platform because they have other methods of source-control, like articles, papers, books, etc. These methods have recieved a digital implementation, but no big advancement has been made in the way they are represented. A PDF still structures most files in pages, which has implication in actually printing the paper, but for online storing and viewing is uselses.
+
+
+
 
 
 
